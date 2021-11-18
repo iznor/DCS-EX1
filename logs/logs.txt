@@ -1,0 +1,363 @@
+info: Listening on port 8080 {"timestamp":"2021-16-11 13:33:40"}
+info: Success: GET {"timestamp":"2021-16-11 13:33:51"}
+info: Response: {"id":395825685,"firstname":"Ebonee","lastname":"Fadiman"} {"timestamp":"2021-16-11 13:33:51"}
+error: invalid path {"timestamp":"2021-16-11 13:34:15"}
+info: (Empty response) {"timestamp":"2021-16-11 13:34:15"}
+info: Success: GET {"timestamp":"2021-16-11 13:34:24"}
+info: Response: {"id":2,"date":"7 November 2021 - 11 November 2021"} {"timestamp":"2021-16-11 13:34:24"}
+info: id 10 does not exist {"timestamp":"2021-16-11 13:34:29"}
+info: (Empty response) {"timestamp":"2021-16-11 13:34:29"}
+info: id 10 does not exist {"timestamp":"2021-16-11 13:34:47"}
+error: id not found in dates.json {"timestamp":"2021-16-11 13:34:47"}
+info: Response: "Fail!" {"timestamp":"2021-16-11 13:34:47"}
+info: id 10 does not exist {"timestamp":"2021-16-11 13:34:50"}
+error: id not found in dates.json {"timestamp":"2021-16-11 13:34:50"}
+info: Response: "Fail!" {"timestamp":"2021-16-11 13:34:50"}
+info: id 8 does not exist {"timestamp":"2021-16-11 13:35:03"}
+error: id not found in dates.json {"timestamp":"2021-16-11 13:35:03"}
+info: Response: "Fail!" {"timestamp":"2021-16-11 13:35:03"}
+info: Success: POST {"timestamp":"2021-16-11 13:35:09"}
+info: Response: "Success!" {"timestamp":"2021-16-11 13:35:09"}
+info: Success: GET {"timestamp":"2021-16-11 13:35:15"}
+info: Success: GET {"timestamp":"2021-16-11 13:35:15"}
+info: Response: [{"id":395825685,"firstname":"Ebonee","lastname":"Fadiman","date":"25 November 2021 - 26 November 2021"}] {"timestamp":"2021-16-11 13:35:15"}
+info: Success: PUT {"timestamp":"2021-16-11 13:35:32"}
+info: Response: "Success!" {"timestamp":"2021-16-11 13:35:32"}
+info: Success: PUT {"timestamp":"2021-16-11 13:35:37"}
+info: Response: "Success!" {"timestamp":"2021-16-11 13:35:37"}
+info: Success: GET {"timestamp":"2021-16-11 13:35:44"}
+info: Success: GET {"timestamp":"2021-16-11 13:35:44"}
+info: Response: "7 November 2021 - 11 November 2021" {"timestamp":"2021-16-11 13:35:44"}
+info: Success: GET {"timestamp":"2021-16-11 13:35:49"}
+info: Success: GET {"timestamp":"2021-16-11 13:35:49"}
+info: Response: [{"id":395825685,"firstname":"Ebonee","lastname":"Fadiman","date":"7 November 2021 - 11 November 2021"}] {"timestamp":"2021-16-11 13:35:49"}
+info: Success: DELETE {"timestamp":"2021-16-11 13:35:58"}
+info: Response: "Success!" {"timestamp":"2021-16-11 13:35:58"}
+error: list is empty {"timestamp":"2021-16-11 13:36:13"}
+info: (Empty response) {"timestamp":"2021-16-11 13:36:13"}
+info: Listening on port 8080 {"timestamp":"2021-18-11 23:01:19"}
+error: invalid path {"timestamp":"2021-18-11 23:01:27"}
+info: (Empty response) {"timestamp":"2021-18-11 23:01:27"}
+info: Success! {"timestamp":"2021-18-11 23:01:44"}
+info: Response: {"id":395825685,"firstname":"Ebonee","lastname":"Fadiman"} {"timestamp":"2021-18-11 23:01:44"}
+info: Listening on port 8080 {"timestamp":"2021-18-11 23:01:57"}
+info: Listening on port 8080 {"timestamp":"2021-18-11 23:02:09"}
+info: Response: {"id":395825685,"firstname":"Ebonee","lastname":"Fadiman"} {"timestamp":"2021-18-11 23:02:11"}
+info: Listening on port 8080 {"timestamp":"2021-18-11 23:02:31"}
+info: Success! {"timestamp":"2021-18-11 23:02:32"}
+info: Response: {"id":395825685,"firstname":"Ebonee","lastname":"Fadiman"} {"timestamp":"2021-18-11 23:02:32"}
+info: Listening on port 8080 {"timestamp":"2021-18-11 23:03:29"}
+info: Success! {"timestamp":"2021-18-11 23:03:32"}
+info: Response: {"id":395825685,"firstname":"Ebonee","lastname":"Fadiman"} {"timestamp":"2021-18-11 23:03:32"}
+info: Listening on port 8080 {"timestamp":"2021-18-11 23:03:50"}
+info: Success! {"timestamp":"2021-18-11 23:03:52"}
+info: Response: {"id":395825685,"firstname":"Ebonee","lastname":"Fadiman"} {"timestamp":"2021-18-11 23:03:52"}
+info: Listening on port 8080 {"timestamp":"2021-18-11 23:04:14"}
+info: Success! {"timestamp":"2021-18-11 23:04:16"}
+info: Response: {"id":395825685,"firstname":"Ebonee","lastname":"Fadiman"} {"timestamp":"2021-18-11 23:04:16"}
+info: Listening on port 8080 {"timestamp":"2021-18-11 23:07:58"}
+info: Response: {"id":395825685,"firstname":"Ebonee","lastname":"Fadiman"} {"timestamp":"2021-18-11 23:08:00"}
+info: Listening on port 8080 {"timestamp":"2021-18-11 23:08:13"}
+info: Success! (undefined) {"timestamp":"2021-18-11 23:08:15"}
+info: Response: {"id":395825685,"firstname":"Ebonee","lastname":"Fadiman"} {"timestamp":"2021-18-11 23:08:15"}
+info: Listening on port 8080 {"timestamp":"2021-18-11 23:08:43"}
+info: Success! (GET) {"timestamp":"2021-18-11 23:08:45"}
+info: Response: {"id":395825685,"firstname":"Ebonee","lastname":"Fadiman"} {"timestamp":"2021-18-11 23:08:45"}
+info: Listening on port 8080 {"timestamp":"2021-18-11 23:09:21"}
+info: Success on GET {"timestamp":"2021-18-11 23:09:22"}
+info: Response: {"id":395825685,"firstname":"Ebonee","lastname":"Fadiman"} {"timestamp":"2021-18-11 23:09:22"}
+info: Listening on port 8080 {"timestamp":"2021-18-11 23:09:40"}
+info: GET Success! {"timestamp":"2021-18-11 23:09:42"}
+info: Response: {"id":395825685,"firstname":"Ebonee","lastname":"Fadiman"} {"timestamp":"2021-18-11 23:09:42"}
+info: Listening on port 8080 {"timestamp":"2021-18-11 23:10:22"}
+info: id 39582568 does not exist {"timestamp":"2021-18-11 23:10:24"}
+info: (Empty response) {"timestamp":"2021-18-11 23:10:24"}
+info: Listening on port 8080 {"timestamp":"2021-18-11 23:11:43"}
+info: Listening on port 8080 {"timestamp":"2021-18-11 23:12:09"}
+error: invalid path {"timestamp":"2021-18-11 23:12:10"}
+info: (Empty response) {"timestamp":"2021-18-11 23:12:10"}
+info: Listening on port 8080 {"timestamp":"2021-18-11 23:13:21"}
+info: GET Success! {"timestamp":"2021-18-11 23:13:24"}
+info: Response: {"id":395825685,"firstname":"Ebonee","lastname":"Fadiman"} {"timestamp":"2021-18-11 23:13:24"}
+info: (Empty response) {"timestamp":"2021-18-11 23:13:27"}
+info: (Empty response) {"timestamp":"2021-18-11 23:13:32"}
+info: Listening on port 8080 {"timestamp":"2021-18-11 23:13:56"}
+info: (Empty response) {"timestamp":"2021-18-11 23:14:00"}
+info: Listening on port 8080 {"timestamp":"2021-18-11 23:14:36"}
+error: id not found in members.json {"timestamp":"2021-18-11 23:14:39"}
+info: (Empty response) {"timestamp":"2021-18-11 23:14:39"}
+info: Listening on port 8080 {"timestamp":"2021-18-11 23:15:06"}
+error: id not found in dates.json {"timestamp":"2021-18-11 23:15:09"}
+info: (Empty response) {"timestamp":"2021-18-11 23:15:09"}
+error: id not found in dates.json {"timestamp":"2021-18-11 23:25:52"}
+info: (Empty response) {"timestamp":"2021-18-11 23:25:52"}
+error: id not found in members.json {"timestamp":"2021-18-11 23:25:56"}
+info: (Empty response) {"timestamp":"2021-18-11 23:25:56"}
+info: GET Success! {"timestamp":"2021-18-11 23:26:00"}
+info: GET Success! {"timestamp":"2021-18-11 23:28:13"}
+info: Response: {"id":395825685,"firstname":"Ebonee","lastname":"Fadiman"} {"timestamp":"2021-18-11 23:28:13"}
+error: invalid path {"timestamp":"2021-18-11 23:29:45"}
+info: (Empty response) {"timestamp":"2021-18-11 23:29:45"}
+error: invalid path {"timestamp":"2021-18-11 23:30:02"}
+info: (Empty response) {"timestamp":"2021-18-11 23:30:02"}
+error: invalid path {"timestamp":"2021-18-11 23:30:06"}
+info: (Empty response) {"timestamp":"2021-18-11 23:30:06"}
+error: invalid path {"timestamp":"2021-18-11 23:30:31"}
+info: (Empty response) {"timestamp":"2021-18-11 23:30:31"}
+error: invalid path {"timestamp":"2021-18-11 23:30:42"}
+info: (Empty response) {"timestamp":"2021-18-11 23:30:42"}
+error: invalid path {"timestamp":"2021-18-11 23:31:03"}
+error: member is not in the choices list {"timestamp":"2021-18-11 23:31:03"}
+info: Response: "Fail FUCK!" {"timestamp":"2021-18-11 23:31:03"}
+error: invalid path {"timestamp":"2021-18-11 23:31:28"}
+error: invalid path {"timestamp":"2021-18-11 23:32:15"}
+error: invalid path {"timestamp":"2021-18-11 23:32:25"}
+error: invalid path {"timestamp":"2021-18-11 23:32:46"}
+error: invalid path {"timestamp":"2021-18-11 23:33:16"}
+error: member is not in the choices list {"timestamp":"2021-18-11 23:33:16"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:33:16"}
+error: invalid path {"timestamp":"2021-18-11 23:34:59"}
+error: member is not in the choices list {"timestamp":"2021-18-11 23:34:59"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:34:59"}
+error: invalid path {"timestamp":"2021-18-11 23:35:12"}
+error: member is not in the choices list {"timestamp":"2021-18-11 23:35:12"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:35:12"}
+error: invalid path {"timestamp":"2021-18-11 23:36:19"}
+error: member is not in the choices list {"timestamp":"2021-18-11 23:36:19"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:36:19"}
+error: invalid path {"timestamp":"2021-18-11 23:36:36"}
+error: member is not in the choices list {"timestamp":"2021-18-11 23:36:36"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:36:36"}
+error: invalid path {"timestamp":"2021-18-11 23:37:27"}
+error: member is not in the choices list {"timestamp":"2021-18-11 23:37:27"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:37:27"}
+error: invalid path {"timestamp":"2021-18-11 23:37:54"}
+error: member is not in the choices list {"timestamp":"2021-18-11 23:37:54"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:37:54"}
+error: invalid path {"timestamp":"2021-18-11 23:38:35"}
+info: DELETE Success! {"timestamp":"2021-18-11 23:38:35"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:38:35"}
+error: invalid path {"timestamp":"2021-18-11 23:39:05"}
+info: DELETE Success! {"timestamp":"2021-18-11 23:39:05"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:39:05"}
+error: invalid path {"timestamp":"2021-18-11 23:39:12"}
+info: DELETE Success! {"timestamp":"2021-18-11 23:39:12"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:39:12"}
+error: invalid path {"timestamp":"2021-18-11 23:42:24"}
+info: DELETE Success! {"timestamp":"2021-18-11 23:42:24"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:42:24"}
+error: invalid path {"timestamp":"2021-18-11 23:42:27"}
+info: DELETE Success! {"timestamp":"2021-18-11 23:42:27"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:42:27"}
+error: invalid path {"timestamp":"2021-18-11 23:43:00"}
+info: DELETE Success! {"timestamp":"2021-18-11 23:43:00"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:43:00"}
+error: invalid path {"timestamp":"2021-18-11 23:43:55"}
+info: DELETE Success! {"timestamp":"2021-18-11 23:43:55"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:43:55"}
+error: invalid path {"timestamp":"2021-18-11 23:44:03"}
+info: DELETE Success! {"timestamp":"2021-18-11 23:44:03"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:44:03"}
+error: invalid path {"timestamp":"2021-18-11 23:44:37"}
+info: DELETE Success! {"timestamp":"2021-18-11 23:44:37"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:44:37"}
+info: POST Success! {"timestamp":"2021-18-11 23:45:36"}
+info: Response: "Success!" {"timestamp":"2021-18-11 23:45:36"}
+info: GET Success! {"timestamp":"2021-18-11 23:45:41"}
+info: GET Success! {"timestamp":"2021-18-11 23:45:41"}
+info: Response: [{"id":252885281,"firstname":"Yolane","lastname":"Edee","date":"12 November 2021 - 14 November 2021"}] {"timestamp":"2021-18-11 23:45:41"}
+error: invalid path {"timestamp":"2021-18-11 23:45:48"}
+info: (Empty response) {"timestamp":"2021-18-11 23:45:48"}
+error: invalid path {"timestamp":"2021-18-11 23:46:00"}
+info: DELETE Success! {"timestamp":"2021-18-11 23:46:00"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:46:00"}
+error: invalid path {"timestamp":"2021-18-11 23:46:08"}
+info: DELETE Success! {"timestamp":"2021-18-11 23:46:08"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:46:08"}
+error: invalid path {"timestamp":"2021-18-11 23:47:54"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:47:54"}
+error: invalid path {"timestamp":"2021-18-11 23:48:08"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:48:08"}
+info: POST Success! {"timestamp":"2021-18-11 23:48:13"}
+info: Response: "Success!" {"timestamp":"2021-18-11 23:48:13"}
+error: id not found in members.json {"timestamp":"2021-18-11 23:51:49"}
+error: id not found in members.json {"timestamp":"2021-18-11 23:51:49"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:51:49"}
+error: can't add item already exist {"timestamp":"2021-18-11 23:51:51"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:51:51"}
+error: can't add item already exist {"timestamp":"2021-18-11 23:51:59"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:51:59"}
+error: invalid path {"timestamp":"2021-18-11 23:52:12"}
+info: (Empty response) {"timestamp":"2021-18-11 23:52:12"}
+error: id not found in dates.json {"timestamp":"2021-18-11 23:52:45"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:52:45"}
+error: id not found in dates.json {"timestamp":"2021-18-11 23:53:00"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:53:00"}
+error: invalid path {"timestamp":"2021-18-11 23:53:10"}
+error: id not found in dates.json {"timestamp":"2021-18-11 23:53:10"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:53:10"}
+error: invalid path {"timestamp":"2021-18-11 23:53:22"}
+error: id not found in dates.json {"timestamp":"2021-18-11 23:53:22"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:53:22"}
+error: invalid path {"timestamp":"2021-18-11 23:53:27"}
+error: member is not in the choices list {"timestamp":"2021-18-11 23:53:27"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:53:27"}
+error: invalid path {"timestamp":"2021-18-11 23:53:47"}
+error: member is not in the choices list {"timestamp":"2021-18-11 23:53:47"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:53:47"}
+error: invalid path {"timestamp":"2021-18-11 23:54:39"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:54:39"}
+error: invalid path {"timestamp":"2021-18-11 23:54:45"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:54:45"}
+error: member is not in the choices list {"timestamp":"2021-18-11 23:54:51"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:54:51"}
+error: member is not in the choices list {"timestamp":"2021-18-11 23:54:56"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:54:56"}
+error: id not found in dates.json {"timestamp":"2021-18-11 23:55:03"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:55:03"}
+error: member is not in the choices list {"timestamp":"2021-18-11 23:56:52"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:56:52"}
+error: id not found in dates.json {"timestamp":"2021-18-11 23:57:10"}
+error: id not found in dates.json {"timestamp":"2021-18-11 23:57:10"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:57:10"}
+error: id not found in dates.json {"timestamp":"2021-18-11 23:57:22"}
+error: id not found in dates.json {"timestamp":"2021-18-11 23:57:22"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:57:22"}
+error: id not found in dates.json {"timestamp":"2021-18-11 23:57:24"}
+error: id not found in dates.json {"timestamp":"2021-18-11 23:57:24"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:57:24"}
+error: id not found in members.json {"timestamp":"2021-18-11 23:57:47"}
+error: id not found in members.json {"timestamp":"2021-18-11 23:57:47"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:57:47"}
+info: (Empty response) {"timestamp":"2021-18-11 23:58:15"}
+info: (Empty response) {"timestamp":"2021-18-11 23:58:29"}
+error: id not found in members.json {"timestamp":"2021-18-11 23:58:35"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:58:35"}
+error: id not found in dates.json {"timestamp":"2021-18-11 23:58:46"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:58:46"}
+info: POST Success! {"timestamp":"2021-18-11 23:58:51"}
+info: Response: "Success!" {"timestamp":"2021-18-11 23:58:51"}
+error: id not found in dates.json {"timestamp":"2021-18-11 23:59:08"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:59:08"}
+info: PUT Success! {"timestamp":"2021-18-11 23:59:19"}
+info: Response: "Success!" {"timestamp":"2021-18-11 23:59:19"}
+error: invalid path {"timestamp":"2021-18-11 23:59:40"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:59:40"}
+error: member is not in the choices list {"timestamp":"2021-18-11 23:59:44"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:59:44"}
+error: member is not in the choices list {"timestamp":"2021-18-11 23:59:59"}
+info: Response: "Fail!" {"timestamp":"2021-18-11 23:59:59"}
+error: id not found in dates.json {"timestamp":"2021-19-11 00:00:07"}
+info: Response: "Fail!" {"timestamp":"2021-19-11 00:00:07"}
+info: DELETE Success! {"timestamp":"2021-19-11 00:00:31"}
+info: Response: "Success!" {"timestamp":"2021-19-11 00:00:31"}
+info: (Empty response) {"timestamp":"2021-19-11 00:00:41"}
+info: (Empty response) {"timestamp":"2021-19-11 00:03:37"}
+info: (Empty response) {"timestamp":"2021-19-11 00:04:28"}
+info: (Empty response) {"timestamp":"2021-19-11 00:04:45"}
+info: (Empty response) {"timestamp":"2021-19-11 00:05:12"}
+info: (Empty response) {"timestamp":"2021-19-11 00:05:34"}
+error: invalid path {"timestamp":"2021-19-11 00:08:21"}
+info: (Empty response) {"timestamp":"2021-19-11 00:08:21"}
+error: id not found in dates.json {"timestamp":"2021-19-11 00:08:33"}
+info: Response: "Fail!" {"timestamp":"2021-19-11 00:08:33"}
+info: POST Success! {"timestamp":"2021-19-11 00:08:37"}
+info: Response: "Success!" {"timestamp":"2021-19-11 00:08:37"}
+error: id not found in members.json {"timestamp":"2021-19-11 00:08:58"}
+info: Response: "Fail!" {"timestamp":"2021-19-11 00:08:58"}
+info: PUT Success! {"timestamp":"2021-19-11 00:09:09"}
+info: Response: "Success!" {"timestamp":"2021-19-11 00:09:09"}
+info: PUT Success! {"timestamp":"2021-19-11 00:09:14"}
+info: Response: "Success!" {"timestamp":"2021-19-11 00:09:14"}
+error: id not found in dates.json {"timestamp":"2021-19-11 00:09:17"}
+info: Response: "Fail!" {"timestamp":"2021-19-11 00:09:17"}
+error: member is not in the choices list {"timestamp":"2021-19-11 00:09:20"}
+info: Response: "Fail!" {"timestamp":"2021-19-11 00:09:20"}
+error: invalid path {"timestamp":"2021-19-11 00:10:21"}
+info: (Empty response) {"timestamp":"2021-19-11 00:10:21"}
+info: GET Success! {"timestamp":"2021-19-11 00:10:24"}
+info: GET Success! {"timestamp":"2021-19-11 00:10:24"}
+info: Response: [{"id":252885281,"firstname":"Yolane","lastname":"Edee","date":"14 November 2021 - 17 November 2021"}] {"timestamp":"2021-19-11 00:10:24"}
+info: GET Success! {"timestamp":"2021-19-11 00:10:50"}
+info: GET Success! {"timestamp":"2021-19-11 00:10:50"}
+info: Response: [{"id":252885281,"firstname":"Yolane","lastname":"Edee","date":"14 November 2021 - 17 November 2021"}] {"timestamp":"2021-19-11 00:10:50"}
+error: invalid path {"timestamp":"2021-19-11 00:11:31"}
+info: (Empty response) {"timestamp":"2021-19-11 00:11:31"}
+error: invalid path {"timestamp":"2021-19-11 00:12:19"}
+info: (Empty response) {"timestamp":"2021-19-11 00:12:19"}
+info: GET Success! {"timestamp":"2021-19-11 00:12:25"}
+info: GET Success! {"timestamp":"2021-19-11 00:12:25"}
+info: Response: "14 November 2021 - 17 November 2021" {"timestamp":"2021-19-11 00:12:25"}
+error: list is empty {"timestamp":"2021-19-11 00:13:37"}
+info: (Empty response) {"timestamp":"2021-19-11 00:13:37"}
+error: invalid path {"timestamp":"2021-19-11 00:13:44"}
+info: (Empty response) {"timestamp":"2021-19-11 00:13:44"}
+error: list is empty {"timestamp":"2021-19-11 00:13:46"}
+info: (Empty response) {"timestamp":"2021-19-11 00:13:46"}
+info: POST Success! {"timestamp":"2021-19-11 00:13:52"}
+info: Response: "Success!" {"timestamp":"2021-19-11 00:13:52"}
+info: Response: [{"id":252885281,"firstname":"Yolane","lastname":"Edee","date":"4 November 2021 - 6 November 2021"}] {"timestamp":"2021-19-11 00:13:59"}
+info: POST Success! {"timestamp":"2021-19-11 00:15:33"}
+info: Response: "Success!" {"timestamp":"2021-19-11 00:15:33"}
+info: Response: [{"id":252885281,"firstname":"Yolane","lastname":"Edee","date":"4 November 2021 - 6 November 2021"}] {"timestamp":"2021-19-11 00:15:38"}
+error: list is empty {"timestamp":"2021-19-11 00:16:13"}
+info: (Empty response) {"timestamp":"2021-19-11 00:16:13"}
+info: POST Success! {"timestamp":"2021-19-11 00:16:17"}
+info: Response: "Success!" {"timestamp":"2021-19-11 00:16:17"}
+info: POST Success! {"timestamp":"2021-19-11 00:16:42"}
+info: Response: "Success!" {"timestamp":"2021-19-11 00:16:42"}
+info: Response: [{"id":252885281,"firstname":"Yolane","lastname":"Edee","date":"4 November 2021 - 6 November 2021"}] {"timestamp":"2021-19-11 00:16:45"}
+info: GET Success! {"timestamp":"2021-19-11 00:20:24"}
+info: Response: {"id":252885281,"firstname":"Yolane","lastname":"Edee"} {"timestamp":"2021-19-11 00:20:24"}
+info: Response: "4 November 2021 - 6 November 2021" {"timestamp":"2021-19-11 00:21:22"}
+info: DELETE Success! {"timestamp":"2021-19-11 00:21:25"}
+info: Response: "Success!" {"timestamp":"2021-19-11 00:21:25"}
+error: member is not in the choices list {"timestamp":"2021-19-11 00:21:29"}
+info: Response: "Fail!" {"timestamp":"2021-19-11 00:21:29"}
+error: list is empty {"timestamp":"2021-19-11 00:21:32"}
+info: (Empty response) {"timestamp":"2021-19-11 00:21:32"}
+error: invalid path {"timestamp":"2021-19-11 00:21:45"}
+info: (Empty response) {"timestamp":"2021-19-11 00:21:45"}
+error: list is empty {"timestamp":"2021-19-11 00:22:14"}
+info: (Empty response) {"timestamp":"2021-19-11 00:22:14"}
+error: id not found in dates.json {"timestamp":"2021-19-11 00:22:21"}
+info: Response: "Fail!" {"timestamp":"2021-19-11 00:22:21"}
+error: id not found in dates.json {"timestamp":"2021-19-11 00:22:30"}
+info: Response: "Fail!" {"timestamp":"2021-19-11 00:22:30"}
+info: POST Success! {"timestamp":"2021-19-11 00:22:33"}
+info: Response: "Success!" {"timestamp":"2021-19-11 00:22:33"}
+error: invalid path {"timestamp":"2021-19-11 00:22:37"}
+info: (Empty response) {"timestamp":"2021-19-11 00:22:37"}
+info: Response: [{"id":252885281,"firstname":"Yolane","lastname":"Edee","date":"25 November 2021 - 26 November 2021"}] {"timestamp":"2021-19-11 00:22:39"}
+error: id not found in dates.json {"timestamp":"2021-19-11 00:22:57"}
+info: Response: "Fail!" {"timestamp":"2021-19-11 00:22:57"}
+info: PUT Success! {"timestamp":"2021-19-11 00:23:05"}
+info: Response: "Success!" {"timestamp":"2021-19-11 00:23:05"}
+info: Response: "25 November 2021 - 26 November 2021" {"timestamp":"2021-19-11 00:23:21"}
+info: PUT Success! {"timestamp":"2021-19-11 00:23:30"}
+info: Response: "Success!" {"timestamp":"2021-19-11 00:23:30"}
+info: Response: "7 November 2021 - 11 November 2021" {"timestamp":"2021-19-11 00:23:33"}
+error: id not found in members.json {"timestamp":"2021-19-11 00:23:41"}
+info: Response: "Fail!" {"timestamp":"2021-19-11 00:23:41"}
+error: id not found in members.json {"timestamp":"2021-19-11 00:23:44"}
+info: Response: "Fail!" {"timestamp":"2021-19-11 00:23:44"}
+error: can't add item already exist {"timestamp":"2021-19-11 00:23:52"}
+info: Response: "Fail!" {"timestamp":"2021-19-11 00:23:52"}
+error: id not found in members.json {"timestamp":"2021-19-11 00:24:14"}
+info: Response: "Fail!" {"timestamp":"2021-19-11 00:24:14"}
+error: id not found in members.json {"timestamp":"2021-19-11 00:24:27"}
+info: Response: "Fail!" {"timestamp":"2021-19-11 00:24:27"}
+error: id not found in members.json {"timestamp":"2021-19-11 00:24:39"}
+info: Response: "Fail!" {"timestamp":"2021-19-11 00:24:39"}
+info: POST Success! {"timestamp":"2021-19-11 00:24:46"}
+info: Response: "Success!" {"timestamp":"2021-19-11 00:24:46"}
+error: invalid path {"timestamp":"2021-19-11 00:24:55"}
+info: (Empty response) {"timestamp":"2021-19-11 00:24:55"}
+info: Response: [{"id":252885281,"firstname":"Yolane","lastname":"Edee","date":"7 November 2021 - 11 November 2021"},{"id":246014727,"firstname":"Leontine","lastname":"Madelene","date":"25 November 2021 - 26 November 2021"}] {"timestamp":"2021-19-11 00:25:00"}
+error: list is empty {"timestamp":"2021-19-11 00:34:36"}
+info: (Empty response) {"timestamp":"2021-19-11 00:34:36"}
+error: list is empty {"timestamp":"2021-19-11 00:36:12"}
+info: (Empty response) {"timestamp":"2021-19-11 00:36:12"}
+info: POST Success! {"timestamp":"2021-19-11 00:36:17"}
+info: Response: "Success!" {"timestamp":"2021-19-11 00:36:17"}
+info: Response: [{"id":246014727,"firstname":"Leontine","lastname":"Madelene","date":"25 November 2021 - 26 November 2021"}] {"timestamp":"2021-19-11 00:36:21"}
